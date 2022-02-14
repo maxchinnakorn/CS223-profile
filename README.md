@@ -1,2 +1,2 @@
-# cs223-profile
+# CS223-profile
  Profile
